@@ -5,5 +5,5 @@ BetterDiscord has set into effect some new [plugin guidelines](https://docs.bett
 Keep in mind that if BDFDB or Discord itself have any big changes, this plugin will probably break. I'll do my best to keep this plugin up to date.
 
 ## Installation
-- Just drop the .plugin.js file into your plugins folder. 
+- Just drop the [.plugin.js file](https://github.com/maromalo/DefinitelyNotSHC/releases/download/v3.2.5/DefinitelyNotSHC.plugin.js) into your plugins folder. 
 - If you want to rename the file, keep in mind that BDFDB automatically updates any file called ShowHiddenChannels.plugin.js to the v9.9.9 version.
