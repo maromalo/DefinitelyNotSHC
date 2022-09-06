@@ -1,6 +1,10 @@
 # DefinitelyNotSHC
 
-BetterDiscord has set into effect some new [plugin guidelines](https://docs.betterdiscord.app/plugins/introduction/guidelines/) that block plugins like ShowHiddenChannels from being distributed on their site. DevilBro also went to the effort of using BDFDB to automatically update SHC to a non-functional version (v9.9.9) which just tells you to delete it. This plugin has the latest version of SHC tweaked to bypass BDFDB's auto-updates. 
+BetterDiscord has set into effect some new [plugin guidelines](https://docs.betterdiscord.app/plugins/introduction/guidelines/) that block plugins like ShowHiddenChannels from being distributed on their site. DevilBro also went to the effort of using BDFDB to automatically update SHC to a non-functional version (v9.9.9) which just tells you to delete it.
+
+![Discord_050922-221057](https://user-images.githubusercontent.com/54760464/188526562-41415c32-d3a8-4184-846d-50cb3a4ab4a9.png)
+
+This plugin has the latest version of SHC tweaked to bypass BDFDB's auto-updates. 
 
 Keep in mind that if BDFDB or Discord itself have any big changes, this plugin will probably break. I'll do my best to keep this plugin up to date.
 
